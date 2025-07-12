@@ -1,2 +1,3 @@
-# Early-Stopping-Byzantine-Agreement
-Early Stopping Byzantine Agreement in (1 + ϵ) · f⋆ Rounds
+
+# Early Stopping Byzantine Agreement Implementation
+This project implements deterministic and randomized early stopping BA protocols.
